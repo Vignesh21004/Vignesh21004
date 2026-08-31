@@ -267,13 +267,6 @@ I'm continuously working on new projects to improve my development skills and ex
 
 ---
 
-# 🏆 Hackathons & Challenges
-
-- 🏆 **TATVA '26 — B.N.M Institute of Technology**
-- 🤖 **GDG Build with AI — Solution Challenge 2026**
-- 🚦 **National AI Junction Optimization Hackathon**
-- 💡 **Ideathon 2025 — RR Institute of Technology**
-
 ---
 
 # 📚 Currently Learning
