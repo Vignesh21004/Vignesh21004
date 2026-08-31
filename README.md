@@ -1,4 +1,6 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ========================================================= -->
+<!--                    SAI VIGNESH README                     -->
+<!-- ========================================================= -->
 
 <h1 align="center">👋 Hi, I'm Sai Vignesh</h1>
 
@@ -7,14 +9,18 @@
 </h3>
 
 <p align="center">
-  <a href="YOUR_GITHUB_LINK">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Backend+Developer+in+Progress;Building+Projects+%26+Learning+Every+Day;Turning+Ideas+Into+Working+Software" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -22,15 +28,20 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Computer Science Engineering student passionate about software development.
+🎓 Computer Science Engineering student passionate about **software development and technology**.
 
-💻 Interested in building efficient backend applications and practical software solutions.
+💻 Interested in developing efficient **backend applications** and practical software solutions.
 
-🧠 Currently strengthening my knowledge in **DSA, DBMS, Operating Systems and Computer Networks**.
+🧠 Currently strengthening my fundamentals in:
 
-🚀 Exploring modern development tools and AI-assisted development workflows.
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
+- Computer Networks
 
-🎯 I enjoy solving real-world problems through technology and continuously learning new skills.
+🚀 Exploring modern development tools and **AI-assisted development**.
+
+💡 I enjoy building projects, participating in hackathons and solving real-world problems through software.
 
 ---
 
@@ -38,141 +49,165 @@
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+## 🌦️ Weather App
 
-<h3 align="center">🌦️ Weather App</h3>
+A responsive weather application that provides weather information based on the city entered by the user.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+**Features**
+
+- 🌍 Search weather by city
+- 🌡️ Temperature information
+- 💨 Weather details
+- 📱 Responsive interface
+- 🔄 API-based weather data
 
 <p align="center">
-A weather application that provides weather information based on the selected city.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-<a href="YOUR_WEATHER_REPO">
-<img src="https://img.shields.io/badge/💻_View_Code-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🌐 Personal Portfolio</h3>
+## 🌐 Personal Portfolio
+
+A personal portfolio website designed to showcase my **skills, projects, achievements and technical journey**.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+**Highlights**
+
+- 👨‍💻 About Me
+- 🛠️ Technical Skills
+- 🚀 Projects
+- 🏆 Achievements
+- 📱 Social Links
+- 📊 Professional Profile
 
 <p align="center">
-A personal portfolio website showcasing my skills, projects and achievements.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-<a href="YOUR_PORTFOLIO_REPO">
-<img src="https://img.shields.io/badge/💻_View_Code-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </td>
-
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+## 📊 Crime Data Analysis
 
-<h3 align="center">📊 Crime Data Analysis</h3>
+A data analysis project focused on exploring crime datasets and extracting meaningful insights through data processing and visualization.
 
-<p align="center">
-Data analysis and visualization project focused on extracting meaningful insights from crime datasets.
-</p>
+**Tech Stack**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python" />
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-</p>
+
+**Focus**
+
+- 📈 Data analysis
+- 🔍 Data exploration
+- 📊 Visualization
+- 🐍 Python programming
 
 <p align="center">
-<a href="YOUR_CRIME_ANALYSIS_REPO">
-<img src="https://img.shields.io/badge/💻_View_Code-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🚗 Velocity Rentals</h3>
+## 🚗 Velocity Rentals
+
+A vehicle rental management project designed to manage rental-related information and database operations.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+**Focus**
+
+- 🚘 Vehicle management
+- 👤 Customer management
+- 📋 Rental records
+- 🗄️ Database management
+- 🔎 SQL queries
 
 <p align="center">
-A vehicle rental management project designed to manage rental operations and related data.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database-003B57?style=flat-square&logo=databricks&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="YOUR_VELOCITY_RENTALS_REPO">
-<img src="https://img.shields.io/badge/💻_View_Code-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </td>
-
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+## 🗺️ Smart Campus Navigation
 
-<h3 align="center">🗺️ Smart Campus Navigation</h3>
+A navigation project designed to help users find efficient routes between different locations within a campus.
+
+**Concepts Used**
+
+<img src="https://skillicons.dev/icons?i=cpp" />
+
+**Focus**
+
+- 🗺️ Graph-based navigation
+- 🔎 Shortest path
+- 🧠 Data Structures & Algorithms
+- 🏫 Campus route optimization
 
 <p align="center">
-A campus navigation project designed to find efficient routes between different locations.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square"/>
-</p>
-
-<p align="center">
-<a href="YOUR_SMART_CAMPUS_REPO">
-<img src="https://img.shields.io/badge/💻_View_Code-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">💡 More Projects</h3>
+## 💡 More Projects
+
+I'm continuously working on new projects to improve my development skills and explore new technologies.
+
+### 🔨 Project Areas
+
+- 🌐 Web Development
+- 🐍 Python Development
+- 📊 Data Analysis
+- 🗄️ Database Systems
+- 🧠 DSA Projects
+- 🤖 AI-based Solutions
 
 <p align="center">
-Explore my GitHub repositories for more experiments, academic projects and development work.
-</p>
-
-<p align="center">
-<a href="YOUR_GITHUB_LINK?tab=repositories">
-<img src="https://img.shields.io/badge/🔎_Explore_Repositories-6f42c1?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </td>
-
 </tr>
 </table>
 
@@ -183,19 +218,23 @@ Explore my GitHub repositories for more experiments, academic projects and devel
 ## 💻 Languages
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&perline=5"/>
-
+<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-## 🎨 Frontend & Web
+## 🌐 Web Development
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=5"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
@@ -203,20 +242,12 @@ Explore my GitHub repositories for more experiments, academic projects and devel
 ## ⚙️ Backend & Database
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mysql,mongodb,firebase&perline=7"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mysql,mongodb,firebase" />
 </p>
 
 ---
 
 ## 📊 Data & Analytics
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python&perline=5"/>
-
-</p>
 
 <p align="center">
 
@@ -228,12 +259,10 @@ Explore my GitHub repositories for more experiments, academic projects and devel
 
 ---
 
-## ☁️ Cloud & Tools
+## ☁️ Tools & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode&perline=5"/>
-
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
 </p>
 
 ---
@@ -249,11 +278,30 @@ Explore my GitHub repositories for more experiments, academic projects and devel
 
 # 📚 Currently Learning
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend_Development-1572B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Tools-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🧠 What I'm Working On
+
 ```text
-🔹 Data Structures & Algorithms
-🔹 Database Management Systems
-🔹 Operating Systems
-🔹 Computer Networks
-🔹 Backend Development
-🔹 AI-assisted Development
-🔹 Cloud Technologies
+🔹 Sharpening DSA, DBMS, OS & Computer Networks fundamentals
+
+🔹 Building practical full-stack and backend projects
+
+🔹 Improving problem-solving and coding skills
+
+🔹 Exploring AI-assisted development workflows
+
+🔹 Learning modern developer tools and technologies
+
+🔹 Participating in hackathons and technical challenges
